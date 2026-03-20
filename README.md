@@ -2,7 +2,8 @@
 
 ### 🧠 *Exploring Intelligence — From Code to Cognition*
 
-I'm a Computer Science student deeply interested in **AI, Deep Learning, and intelligent systems**.
+I'm a Computer Science st
+udent deeply interested in **AI, Deep Learning, and intelligent systems**.
 I enjoy understanding how things work at a fundamental level — whether it's neural networks, system design, or low-level computing.
 
 ---
