@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Chethan%20%20S&textBg=false&fontAlignY=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Chethan%20%20S&textBg=false&fontAlignY=50&animation=fadeIn" />
 </p>
 
 # About Me:
