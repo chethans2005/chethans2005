@@ -34,10 +34,8 @@ Currently focusing on:
 
 
 # GitHub Stats:
-![Stats](https://your-deployment.vercel.app/api?username=chethans2005&theme=gruvbox)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chethans2005&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=chethans2005&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=chethans2005&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
